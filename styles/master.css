@@ -207,33 +207,33 @@ h2 {
     justify-content: space-between !important;
   }
 
-  /* line 29, ../sass/layouts/_responsive.scss */
+  /* line 28, ../sass/layouts/_responsive.scss */
   .about, .blog, .secondary-content-items {
     flex-direction: column !important;
   }
 
-  /* line 33, ../sass/layouts/_responsive.scss */
+  /* line 32, ../sass/layouts/_responsive.scss */
   .about, .blog {
     max-width: 360px;
     margin: 0 20px 30px;
   }
 
-  /* line 38, ../sass/layouts/_responsive.scss */
+  /* line 37, ../sass/layouts/_responsive.scss */
   .post, .blog-post {
     margin-top: 30px;
     background: #F2F2F2;
     text-align: center;
   }
-  /* line 43, ../sass/layouts/_responsive.scss */
+  /* line 42, ../sass/layouts/_responsive.scss */
   .post p, .post h2, .blog-post p, .blog-post h2 {
     padding: 10px 20px;
   }
-  /* line 44, ../sass/layouts/_responsive.scss */
+  /* line 43, ../sass/layouts/_responsive.scss */
   .post img, .blog-post img {
     width: 100%;
   }
 
-  /* line 47, ../sass/layouts/_responsive.scss */
+  /* line 46, ../sass/layouts/_responsive.scss */
   #services {
     background: url("../images/1-1.jpg");
     background-position: center center;
@@ -248,40 +248,56 @@ h2 {
     color: white;
   }
 
-  /* line 61, ../sass/layouts/_responsive.scss */
+  /* line 60, ../sass/layouts/_responsive.scss */
   .secondary-content-item {
     max-width: 360px;
     margin: 30px;
   }
-  /* line 66, ../sass/layouts/_responsive.scss */
+  /* line 65, ../sass/layouts/_responsive.scss */
   .secondary-content-item img {
     width: 100%;
   }
-  /* line 67, ../sass/layouts/_responsive.scss */
+  /* line 66, ../sass/layouts/_responsive.scss */
   .secondary-content-item h2, .secondary-content-item p {
     padding: 10px 20px;
   }
 
-  /* line 70, ../sass/layouts/_responsive.scss */
+  /* line 69, ../sass/layouts/_responsive.scss */
   .secondary-content-big {
     max-width: 360px;
     margin: 30px;
   }
-  /* line 75, ../sass/layouts/_responsive.scss */
+  /* line 74, ../sass/layouts/_responsive.scss */
   .secondary-content-big img {
     width: 100%;
   }
-  /* line 77, ../sass/layouts/_responsive.scss */
+  /* line 76, ../sass/layouts/_responsive.scss */
   .secondary-content-big h2, .secondary-content-big p {
     padding: 10px 20px;
   }
 
-  /* line 81, ../sass/layouts/_responsive.scss */
+  /* line 80, ../sass/layouts/_responsive.scss */
+  form {
+    width: 85%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  /* line 84, ../sass/layouts/_responsive.scss */
+  form ::placeholder {
+    color: #000;
+  }
+
+  /* line 87, ../sass/layouts/_responsive.scss */
   .items-input, .item-textarea {
-    max-width: 360px;
-    flex-direction: column !important;
     flex: 100%;
     margin: 0 20px 30px;
+    max-width: 100% !important;
+  }
+
+  /* line 93, ../sass/layouts/_responsive.scss */
+  .contact-form {
+    width: 100% !important;
+    padding: 10px 10px !important;
   }
 }
 /* Small devices */
