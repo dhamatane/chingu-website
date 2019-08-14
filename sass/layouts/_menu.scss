@@ -1,0 +1,27 @@
+nav {
+  position: fixed;
+  width: 100%;
+  background: $bg-menu;
+
+  ul {
+    width: 600px;
+    height: 80px;
+    line-height: 80px;
+    margin: 0 auto;
+
+    li {
+      display: inline-block;
+      a {
+        margin: 0 10px;
+        padding: 15px 20px;
+        border: 1px solid #646d7c;
+        transition: all 0.3s ease;
+        font-size: 20px;
+        text-decoration: none;
+        color: white;
+
+        &:hover { background: #49505F; }
+      }
+    }
+  }
+}
