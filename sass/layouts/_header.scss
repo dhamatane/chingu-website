@@ -1,0 +1,17 @@
+header {
+  background-image: url("../images/bg-1.jpg");
+  @extend %bg-image;
+  padding: 200px 0;
+  color: white;
+
+  h1 {
+    text-shadow: 2px 2px #000;
+    font-weight: 700 !important;
+    font-size: 70px;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-size: 25px;
+  }
+}

@@ -1,0 +1,25 @@
+/* ===========================
+   Base
+   =========================== */
+* { box-sizing: border-box; }
+
+html {scroll-behavior: smooth;}
+
+body {
+  font-size: 14px;
+  font-family: $font-open-sans;
+  line-height: 1.6;
+  background: white;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: capitalize
+}
+
+h2 {
+  font-size: 20px !important;
+  color: #666666;
+  font-weight: 700;
+}
