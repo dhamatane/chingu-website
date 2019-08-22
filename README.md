@@ -8,7 +8,9 @@ This website was created for the Chingu Voyage 11 pre-work.
 1. Clone/Download the repo.
 2. Run index.html in your favorite browser.
 
-## Tech Used / Dependencies
+## Tech Used
+* HTML
+* CSS
 * [sass](https://sass-lang.com/)
 * [compass](http://compass-style.org/) 
 * Fonts from [Google Fonts](https://fonts.google.com/)
