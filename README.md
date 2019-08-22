@@ -12,3 +12,6 @@ This app was created for the Chingu Voyage 11 pre-work.
 * [sass](https://sass-lang.com/)
 * [compass](http://compass-style.org/) 
 * Fonts from [Google Fonts](https://fonts.google.com/)
+
+## Special thanks to
+All chingu team and especially to [Jim Medlock](https://github.com/jdmedlock)
