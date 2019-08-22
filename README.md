@@ -1,6 +1,6 @@
 # chingu-website
 ## Overview
-This app was created for the Chingu Voyage 11 pre-work.
+This website was created for the Chingu Voyage 11 pre-work.
 
 **Live link**: https://dhamatane.github.io/chingu-website
 
