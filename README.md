@@ -9,6 +9,6 @@ This app was created for the Chingu Voyage 11 pre-work.
 2. Run index.html in your favorite browser.
 
 ## Tech Used / Dependencies
-* [sass](https://sass-lang.com/) : it's a css preprocessor that lets you generate dynamic stylesheets
-* [compass](http://compass-style.org/) : it's 
+* [sass](https://sass-lang.com/)
+* [compass](http://compass-style.org/) 
 * Fonts from [Google Fonts](https://fonts.google.com/)
